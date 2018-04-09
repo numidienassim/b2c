@@ -6,27 +6,30 @@
     <extension name='adaptivesearchbackoffice' />
     <extension name='adaptivesearchsamplesaddon' />
     <extension name='adaptivesearchwebservices' />
-    <extension name='commerceservicesbackoffice' />
+    <extension name='b2bcommercebackoffice' />
     <extension name='solrfacetsearchbackoffice' />
-    <extension name='solrserver' />
+    <extension name='b2badmincockpit' />
     <extension name='yacceleratorcockpits' />
     <extension name='yacceleratorinitialdata' />
     <extension name='yacceleratorfulfilmentprocess' />
-    <extension name='yacceleratorstorefront' />
     <extension name='ycommercewebservices' />
     <extension name='ycommercewebservicestest' />
-    <extension name='electronicsstore' />
-    <extension name='apparelstore' />
-    <extension name='acceleratorwebservicesaddon' />
     <extension name='orderselfserviceaddon' />
+    <extension name='powertoolsstore' />
+    <extension name='solrserver' />
+    <extension name='acceleratorwebservicesaddon' />
+    <extension name='b2bacceleratoraddon' />
+    <extension name='commerceorgaddon' />
+    <extension name='commerceorgsamplesaddon' />
     <extension name='customersupportbackoffice' />
     <extension name='customerticketingaddon' />
-    <extension name='commerceorgsamplesaddon' />
     <extension name='rulebuilderbackoffice' />
     <extension name='couponbackoffice' />
     <extension name='droolsruleengineservices' />
     <extension name='couponfacades' />
     <extension name='promotionenginesamplesaddon' />
+    <extension name='textfieldconfiguratortemplatebackoffice' />
+    <extension name='textfieldconfiguratortemplateaddon' />
     <extension name='cmswebservices' />
     <extension name='smarteditwebservices' />
     <extension name='cmssmarteditwebservices' />
@@ -34,8 +37,8 @@
     <extension name='smarteditaddon' />
     <extension name='cmssmartedit' />
     <extension name='cmsbackoffice' />
-    <extension name='cmsmulticountrycockpit' />
-    <extension name='multicountrysampledataaddon' />
+    <extension name='assistedservicestorefront' />
+    <extension name='assistedservicewebservices' />
     <extension name='previewpersonalizationweb' />
     <extension name='personalizationcmsweb' />
     <extension name='personalizationsmartedit' />
@@ -50,15 +53,11 @@
     <extension name='personalizationsearchsmartedit' />
     <extension name='personalizationsearchweb' />
     <extension name='personalizationsearchsamplesaddon' />
-    <extension name='textfieldconfiguratortemplatebackoffice' />
-    <extension name='textfieldconfiguratortemplateaddon' />
-    <extension name='assistedservicestorefront' />
-    <extension name='assistedservicewebservices' />
-    <extension name='assistedservicepromotionaddon' />
     <extension name='assistedserviceatddtests' />
     <extension name='promotionengineatddtests' />
     <extension name='textfieldconfiguratortemplateatddtests' />
     <extension name='pcmbackofficesamplesaddon' />
     <extension name='tutocore' />
+    
   </extensions>
 </hybrisconfig>
