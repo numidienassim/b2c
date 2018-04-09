@@ -1,1 +1,2 @@
-/config/solr
+**/config/solr/
+**/gensrc
